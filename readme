@@ -1,0 +1,70 @@
+html learning
+HTML is the standard markup language for Web pages.
+HTML is the standard markup language for creating Web pages
+HTML describes the structure of a Web page
+
+Note: The content inside the
+<body> section will be displayed in a browser. The content inside the
+<title> element will be shown in the browser's title bar or in the page's tab.
+
+    HTML History
+    Since the early days of the World Wide Web, there have been many versions of HTML:
+    
+    Year	Version
+    1989	Tim Berners-Lee invented www
+    1991	Tim Berners-Lee invented HTML
+    1993	Dave Raggett drafted HTML+
+    1995	HTML Working Group defined HTML 2.0
+    1997	W3C Recommendation: HTML 3.2
+    1999	W3C Recommendation: HTML 4.01
+    2000	W3C Recommendation: XHTML 1.0
+    2008	WHATWG HTML5 First Public Draft
+    2012	WHATWG HTML5 Living Standard
+    2014	W3C Recommendation: HTML5
+    2016	W3C Candidate Recommendation: HTML 5.1
+    2017	W3C Recommendation: HTML5.1 2nd Edition
+    2017	W3C Recommendation: HTML5.2
+
+Use the style attribute for styling HTML elements
+Use background-color for background color
+Use color for text colors
+Use font-family for text fonts
+Use font-size for text sizes
+Use text-align for text alignment
+
+HTML Text Formatting Elements
+Tag	Description
+<b>	Defines bold text
+<em>	Defines emphasized text 
+<i>	Defines a part of text in an alternate voice or mood
+<small>	Defines smaller text
+<strong>	Defines important text
+<sub>	Defines subscripted text
+<sup>	Defines superscripted text
+<ins>	Defines inserted text
+<del>	Defines deleted text
+<mark>	Defines marked/highlighted text
+
+HTML Quotation and Citation Elements
+Tag	Description
+<abbr>	Defines an abbreviation or acronym
+<address>	Defines contact information for the author/owner of a document
+<bdo>	Defines the text direction
+<blockquote>	Defines a section that is quoted from another source
+<cite>	Defines the title of a work
+<q>	Defines a short inline quotation
+
+Comment 
+<!-- Write your comments here -->
+
+Use the HTML style attribute for inline styling
+Use the HTML <style> element to define internal CSS
+Use the HTML <link> element to refer to an external CSS file
+Use the HTML <head> element to store <style> and <link> elements
+Use the CSS color property for text colors
+Use the CSS font-family property for text fonts
+Use the CSS font-size property for text sizes
+Use the CSS border property for borders
+Use the CSS padding property for space inside the border
+Use the CSS margin property for space outside the border
+
